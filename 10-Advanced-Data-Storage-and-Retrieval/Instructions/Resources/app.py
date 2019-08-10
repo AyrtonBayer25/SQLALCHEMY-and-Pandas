@@ -166,14 +166,5 @@ def start_end(start=None, end=None):
 
 if __name__ == '__main__':
     app.run(debug=True)
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
+
+
